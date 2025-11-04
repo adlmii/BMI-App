@@ -1,4 +1,4 @@
-# 🏋️ BMI Calculator App (Jetpack Compose, ViewModel & StateFlow)
+# 🏋️ BMI Calculator App
 
 [![GitHub language count](https://img.shields.io/github/languages/count/adlmii/BMI-App)](https://github.com/adlmii/BMI-App)
 [![GitHub top language](https://img.shields.io/github/languages/top/adlmii/BMI-App)](https://github.com/adlmii/BMI-App)
